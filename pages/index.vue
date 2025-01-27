@@ -146,19 +146,6 @@
     </div>
   </div>
 </section>
-<section class="split-section__top">
-  <div class="split-section__inside">
-    <div class="split-section__container__top d-flex">
-    
-      <div class="split-section__image__top">
-        <img src="/img/blocks/top-btn.svg" alt="" class="split-section__image-content__top">
-      </div>
-      <div class="split-section__text_top">
-        <h2 class="split-section__title__top">Foglaljon prémium takarítót egy gombnyomással</h2>
-        <p class="split-section__description__top">Bízza ránk otthona vagy irodája tisztaságát! Professzionális csapatunk garantálja a makulátlan eredményt, legyen szó mindennapi takarításról vagy különleges igényekről.</p>
-      </div>
-    </div>
-  </div>
-</section>
+
 
 </template>
